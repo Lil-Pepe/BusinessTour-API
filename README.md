@@ -13,20 +13,20 @@ When the bot is correctly downloaded, just change the ```xAuthToken``` value in 
 
 ## Documentation
 
-# getLeaderBoard()
+### getLeaderBoard()
 Used to get the game 100 first player included in the leaderboard
 
-# getUserInventory()
+### getUserInventory()
 Used to get the xAuthToken owner inventory
 
-# getUserData(playFabId)
+### getUserData(playFabId)
 Used to get the user data of the ```playFabId``` owner
 
-# getTitleNews()
+### getTitleNews()
 Used to get the last title news
 
-# getFriendsList()
+### getFriendsList()
 Used to get the friend list of the xAuthToken owner
 
-# getPlayerProfile(playFabId)
+### getPlayerProfile(playFabId)
 Used to get the player profile of the ```playFabId``` owner
